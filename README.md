@@ -15,7 +15,7 @@
 |Book Name|StartData|book_image|
 |---|---|---|
 |운영체제|2022|<img src="" width="200">
-|소프트웨어공학의 모든것|2022|<img src="" width="200">|
+|소프트웨어공학의 모든것|2022|<img src="![image-removebg-preview (3)](https://github.com/park-chaerin/park-chaerin/assets/70634789/555e8d38-6601-4e10-80b4-3b9ecf17a4bf)" width="200">|
 |유니티 2D 게임 제작|2022|<img src="" width="200">|
 |Do it! sql 입문|2022|<img src="" width="200">|
 |컴퓨터 네트워킹, 하향식 접근(7판)|2021|<img src="" width="200">|
