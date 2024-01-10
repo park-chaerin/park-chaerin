@@ -1,4 +1,4 @@
-# 저는 '박채린' 입니다 ! 👋
+# Hi! 👋
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=park-chaerin&custom_title=Chaerin's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Chaerin's Github Activity Graph" width="100%">
