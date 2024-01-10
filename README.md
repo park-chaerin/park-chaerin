@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/mysql-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=express&logoColor=white">
 </div>
-<h4>Front-End<h4>
 <div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
