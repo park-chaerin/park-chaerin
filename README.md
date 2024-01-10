@@ -10,25 +10,21 @@
 |정보처리기사(필기는 합격!)|2023.10|<img src="https://github.com/park-chaerin/park-chaerin/assets/70634789/f3bee245-697c-4bb3-ab57-3e4d90bd825f" width="200"><img src="https://github.com/park-chaerin/park-chaerin/assets/70634789/a95054f0-1c16-46bc-b31f-770bfa000b64" width="200">
 |Do it! 깡샘의 플러터 & 다트 프로그래밍|2023.09 |<img src="https://github.com/park-chaerin/park-chaerin/assets/70634789/1ade4cc6-3a5f-43ba-9bd9-a645ee27d113" width="200">
 
-<h4>Back-End</h4>
+## 💻 Tech Stack
 <div>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/PYTHON-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+  <img src="https://img.shields.io/badge/FlUTTER-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=express&logoColor=white">
 </div>
 <h4>Front-End<h4>
 <div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
-
 <!--
 **park-chaerin/park-chaerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
