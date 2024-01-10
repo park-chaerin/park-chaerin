@@ -12,11 +12,11 @@
 
 ## 💻 Tech Stack
 <div>
-  <img src="https://img.shields.io/badge/PYTHON-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-  <img src="https://img.shields.io/badge/FlUTTER-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/PYTHON-007396?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=JAVA&logoColor=white">
+  <img src="https://img.shields.io/badge/FlUTTER-6DB33F?style=for-the-badge&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-339933?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 <div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
