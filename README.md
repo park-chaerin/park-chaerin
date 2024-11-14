@@ -7,23 +7,9 @@
 # Current Studying List
 |Book Name|StartDate|book_image|
 |---|---|---|
-|정보처리기사(필기는 합격!)|2023.10|<img src="https://github.com/park-chaerin/park-chaerin/assets/70634789/f3bee245-697c-4bb3-ab57-3e4d90bd825f" width="200"><img src="https://github.com/park-chaerin/park-chaerin/assets/70634789/a95054f0-1c16-46bc-b31f-770bfa000b64" width="200">
+|정보처리기사|2023.10|<img src="https://github.com/park-chaerin/park-chaerin/assets/70634789/f3bee245-697c-4bb3-ab57-3e4d90bd825f" width="200"><img src="https://github.com/park-chaerin/park-chaerin/assets/70634789/a95054f0-1c16-46bc-b31f-770bfa000b64" width="200">
 |Do it! 깡샘의 플러터 & 다트 프로그래밍|2023.09 |<img src="https://github.com/park-chaerin/park-chaerin/assets/70634789/1ade4cc6-3a5f-43ba-9bd9-a645ee27d113" width="200">
 
-## 💻 Tech Stack
-<div>
-  <img src="https://img.shields.io/badge/PYTHON-007396?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/JAVA-6DB33F?style=for-the-badge&logo=JAVA&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-3DC33F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=firebase&logoColor=white">
-</div>
-<div>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/unity-34D3f6?style=for-the-badge&logo=unity&logoColor=white">
-</div>
 <!--
 **park-chaerin/park-chaerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
